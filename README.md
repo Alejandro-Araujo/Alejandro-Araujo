@@ -11,7 +11,7 @@ Beyond the code, I have a genuine interest in the social sector and am always lo
 
 - 🎓 **Just completed**: CFGS DAM (Desarrollo de Aplicaciones Multiplataforma) - June 2025
 - 💼 **Recent experience**: 3-month internship as Software Development & Quality Assurance Engineer at IoT company
-* 🔭 **Actively applying and expanding skills**: Through projects like the migration of HabitJourney to Firebase.
+- 🔭 **Actively applying and expanding skills**: Through projects like the migration of HabitJourney to Firebase.
 - 🌱 **Learning**: Python ecosystem, Cloud basics (Firebase/AWS), IoT fundamentals
 - 🎯 **Interests**: Quality software development, social impact applications, continuous learning
 - ⚡ **Strengths**: Problem analysis, clean architecture, and attention to detail
